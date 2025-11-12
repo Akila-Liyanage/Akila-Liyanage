@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesha-Sandaruwan&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
