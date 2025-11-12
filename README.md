@@ -11,6 +11,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akila-Liyanage&label=Profile%20views&color=FF0000&style=for-the-badge" alt="Profile Views"/>
 </p>
+---
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
   
 - 🌱 I’m currently learning **MERN**
 
