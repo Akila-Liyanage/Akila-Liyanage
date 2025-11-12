@@ -28,6 +28,14 @@
 </table>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adeesha-Sandaruwan&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+---
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=radical&hide_border=true" height="160"/>
