@@ -42,7 +42,7 @@
   <a href="https://linkedin.com/in/akila-prasad" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  <a href="https://stackoverflow.com/users/akila-liyanage" target="blank">
+  <a href="https://stackoverflow.com/users/00000000" target="blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" />
   </a>
 </p>
@@ -66,7 +66,7 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
