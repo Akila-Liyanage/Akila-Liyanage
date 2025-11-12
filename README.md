@@ -1,61 +1,37 @@
-# 👋 Hi, I'm Akila Liyanage  
+# 👋 Hello, I'm Akila Liyanage
 
-🎓 **Undergraduate Student** at the **Sri Lanka Institute of Information Technology (SLIIT)**  
-💻 **Aspiring DevOps Engineer** | **Software Engineer** | **Tech Enthusiast**
-
----
-
-### 🚀 About Me  
-I’m passionate about technology, cloud computing, and automation.  
-Currently, I’m pursuing a **BSc (Hons) in Information Technology** specializing in **Information Technology**.  
-My goal is to become a **skilled DevOps Engineer** with strong knowledge in **CI/CD pipelines, containerization, and cloud platforms**.
+💻 **Software Developer | DevOps Enthusiast | Tech Lover**
 
 ---
 
-### 🧠 What I’m Learning
-- 🔧 DevOps & CI/CD tools (Docker, Jenkins, GitHub Actions)  
-- ☁️ Cloud Platforms (AWS, Azure, Google Cloud)  
-- 💻 MERN Stack Development  
-- 📊 Data Science & Cybersecurity fundamentals  
+### 🚀 About Me
+I'm passionate about building scalable web applications, automating workflows, and exploring cloud technologies.  
+I love experimenting with new tools, learning best practices, and contributing to open-source projects.
 
 ---
 
-### 💼 Projects
-- **Full Fish Market System (ITP Project)**  
-  🐟 MERN Stack + IoT based system for fish trading, condition monitoring, and GPS-based delivery tracking.  
-  _Includes seller-side IoT modules, import/export management, and live temperature control._  
+### 🛠️ Skills & Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🧰 Tech Stack
-| Category | Tools |
-|-----------|--------|
-| 💻 Programming | JavaScript, Python, C#, Java |
-| 🌐 Web | React, Node.js, Express, MongoDB |
-| ⚙️ DevOps | Docker, Git, GitHub Actions |
-| ☁️ Cloud | AWS, Firebase |
-| 🗄️ Database | MySQL, MongoDB |
-| 🧠 Other | Linux, Postman, VS Code |
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dracula)
 
 ---
 
-### 📈 GitHub Stats  
-![Akila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akilaprasad001&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akilaprasad001&layout=compact&theme=radical)
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sample)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sample)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sample)
 
 ---
 
-### 🌐 Connect With Me  
-📧 **Email:** akilaprasad001@gmail.com  
-📍 **Location:** Colombo, Sri Lanka  
-💼 **LinkedIn:** [linkedin.com/in/akilaliyanage](https://linkedin.com/in/akilaliyanage)  
-🐙 **GitHub:** [github.com/akilaprasad001](https://github.com/akilaprasad001)
-
----
-
-### ✨ Quote I Live By
-> “Stay curious, keep learning, and never stop building.”
-
----
-
-⭐️ _Thanks for visiting my GitHub profile! Feel free to connect or check out my repositories._ 😊
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
