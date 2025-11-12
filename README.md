@@ -1,191 +1,208 @@
-# 👋 Hi there, I'm Akila Liyanage
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+DevOps+Engineer;An+Aspiring+Full-Stack+Developer;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm Akila Liyanage
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=A+passionate+tech+lover+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Always+learning+new+things+%F0%9F%93%9A;Building+the+future+with+code+%F0%9F%92%BB" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=akilaliyanage&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/akilaliyanage?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 🔭 I'm currently working on **Full Stack Development**
+- 🌱 I'm currently learning **React, Kotlin, MongoDB, ExpressJS, NodeJS, AI/ML**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🤔 I'm looking for help with **Machine Learning**
+- 💬 Ask me about **C, C++, Java, HTML, CSS, Python, MySQL, PHP**
+- 📫 How to reach me: **akilaprasad001@gmail.com**
+- ⚡ Fun fact: **I think I'm funny** 😄
+- 🎯 Goal: **To become a successful software engineer**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> Connect with me:
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akila-prasad/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akilaprasad001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akilaliyanage)
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Languages and Tools:
 
-```typescript
-const akila = {
-    location: "Sri Lanka 🇱🇰",
-    currentFocus: ["DevOps Automation", "Cloud Architecture", "Full-Stack Development"],
-    learning: ["Kubernetes", "Terraform", "System Design"],
-    funFact: "I debug in production and still sleep well at night 😎",
-    askMeAbout: ["Web Development", "CI/CD", "Cloud Infrastructure", "Microservices"]
-};
+<div align="center">
+
+### 💻 Programming Languages:
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js&theme=dark" />
+
+### 🌐 Frontend Development:
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+
+### 🗄️ Backend Development:
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+
+### 🛠️ Tools & Technologies:
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio&theme=dark" />
+
+### 📱 Currently Learning:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=React+%E2%9A%9B%EF%B8%8F;Kotlin+%F0%9F%93%B1;MongoDB+%F0%9F%8D%83;ExpressJS+%E2%9A%A1;NodeJS+%F0%9F%9F%A2;AI%2FML+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Analytics:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akilaliyanage&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akilaliyanage&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilaliyanage&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akilaliyanage&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Contribution Graph:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akilaliyanage&custom_title=Akila's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Random Dev Wisdom:
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50"> Latest Projects Showcase:
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Amazing+Projects;%F0%9F%92%A1+Innovative+Solutions;%F0%9F%8C%9F+Open+Source+Contributions;%F0%9F%94%A5+Clean+%26+Efficient+Code)](https://git.io/typing-svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;My Coding Journey:
+
+<div align="center">
+
+```
+   _____ _             _   _               _____          _       _ 
+  / ____| |           | | (_)             / ____|        | |     (_)
+ | (___ | |_ __ _ _ __| |_ _ _ __   __ _  | |     ___   __| | ____  _ 
+  \___ \| __/ _` | '__| __| | '_ \ / _` | | |    / _ \ / _` |/ _ \| |
+  ____) | || (_| | |  | |_| | | | | (_| | | |___| (_) | (_| |  __/| |
+ |_____/ \__\__,_|_|   \__|_|_| |_|\__, |  \_____\___/ \__,_|\___||_|
+                                    __/ |                             
+                                   |___/                              
 ```
 
-I'm a passionate **Software Engineer** and **DevOps Engineer** with a love for building scalable, efficient, and automated solutions. I thrive at the intersection of development and operations, creating seamless pipelines and robust applications.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🔥 Featured Projects
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Weekly Development Breakdown:
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME_1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME_2)
+<!--START_SECTION:waka-->
+```text
+💻 Programming Languages:
+Java         8 hrs 30 mins  ████████████░░░   45.2%
+Python       4 hrs 15 mins  ██████░░░░░░░░░   22.6%
+JavaScript   3 hrs 45 mins  █████░░░░░░░░░░   20.0%
+HTML/CSS     1 hr 30 mins   ██░░░░░░░░░░░░░    8.0%
+Other        0 hrs 50 mins  █░░░░░░░░░░░░░░    4.2%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
-### 🚀 Notable Repositories
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/project1)** - A scalable microservices architecture with Kubernetes orchestration
-- **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/project2)** - Full-stack e-commerce platform with React and Node.js
-- **[Project Name 3](https://github.com/YOUR_GITHUB_USERNAME/project3)** - CI/CD pipeline automation using GitHub Actions and Terraform
-- **[Project Name 4](https://github.com/YOUR_GITHUB_USERNAME/project4)** - Real-time monitoring dashboard with Grafana and Prometheus
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 💼 Experience Highlights
-
-🔹 **DevOps Engineer** - Automated deployment pipelines reducing release time by 60%  
-🔹 **Full-Stack Developer** - Built scalable web applications serving 100K+ users  
-🔹 **Cloud Architect** - Designed and implemented AWS infrastructure for enterprise clients  
-🔹 **Open Source Contributor** - Active contributor to various DevOps and web development projects
-
----
-
-## 🎯 Current Goals
-
-- 🌱 Mastering Kubernetes and cloud-native technologies
-- 🔭 Building production-ready microservices architectures
-- 👯 Contributing to open-source DevOps tools
-- 📝 Writing technical blogs about DevOps best practices
-- 🚀 Achieving AWS Solutions Architect Professional certification
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building a CI/CD Pipeline with GitHub Actions](https://your-blog.com/post1)
-- [Kubernetes Best Practices for Production](https://your-blog.com/post2)
-- [Infrastructure as Code with Terraform](https://your-blog.com/post3)
-- [Monitoring Microservices with Prometheus](https://your-blog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Fun Interactions:
 
 <div align="center">
   
-I'm always open to interesting conversations and collaboration opportunities!
+<details>
+<summary><b>🎮 Click to see a surprise!</b></summary>
+<br>
 
-**💬 Ask me about:** DevOps | Cloud Computing | Full-Stack Development | System Design
+```
+🎉 Congratulations! You found the secret section! 🎉
 
-**📫 Reach me at:** your.email@example.com
+      ╔══════════════════════════════════════╗
+      ║  Thanks for exploring my profile!    ║
+      ║  Let's connect and build something   ║
+      ║  amazing together! 🚀                ║
+      ╚══════════════════════════════════════╝
+      
+           ┌─┐       ┌─┐
+        ┌──┘ ┴───────┘ ┴──┐
+        │                 │
+        │       ───       │
+        │  ─┬┘       └┬─  │
+        │               │
+        │       ─┴─      │
+        │                 │
+        └───┐         ┌───┘
+            │         │
+            │         │
+            │         │
+            │         └──────────────┐
+            │                        │
+            │                        ├─┐
+            │                        ┌─┘
+            │                        │
+            └─┐  ┐  ┌───────┬──┐  ┌──┘
+              │ ─┤ ─┤       │ ─┤ ─┤
+              └──┴──┘       └──┴──┘
+```
 
-**🌐 Visit my portfolio:** [your-portfolio.com](https://your-portfolio.com)
+</details>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35"> Thank You Message:
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  ### ⚡ Fun Fact: The best error message is the one that never shows up!
-  
-  ![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
-  
-</div>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Thanks+for+visiting!+%F0%9F%98%84;Don't+forget+to+%E2%AD%90+my+repos!;Let's+build+the+future+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+**Show some ❤️ by starring ⭐ some of my repositories!**
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 </div>
