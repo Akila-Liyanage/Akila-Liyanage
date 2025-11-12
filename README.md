@@ -1,18 +1,15 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <!-- Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://github.com/Akila-Liyanage/Akila-Liyanage/blob/main/Images/about_me.gif?raw=true" width="100px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akila+Liyanage!;Aspiring+DevOps+Engineer+%26+Full-Stack+Developer;Always+Learning+%26+Building+Awesome+Things!" alt="Typing SVG" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:red">Akila Liyanage</span></h1>
-<h3 align="center">🎓 Undergraduate at SLIIT | 💻 Passionate Full-Stack & DevOps Enthusiast</h3>
-
+<!-- Profile View Counter -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=Akila-Liyanage&label=Profile%20views&color=FF0000&style=for-the-badge" alt="Profile Views"/>
 </p>
   
 - 🌱 I’m currently learning **MERN**
