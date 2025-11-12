@@ -50,7 +50,7 @@
 ---
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeesha-Sandaruwan&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
@@ -62,11 +62,5 @@
 
 ---
 
-## 📊 GitHub Analytics (Dummy Data)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs=false&custom_title=Akila's%20Stats&hide=issues=false&cache_seconds=86400&card_width=400&title_color=ff79c6&icon_color=ff5555&text_color=ffffff&bg_color=1e1e2f" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=ff79c6&icon_color=ff5555&text_color=ffffff&bg_color=1e1e2f&count_private=true&hide=html" height="160"/>
-</p>
 
 
