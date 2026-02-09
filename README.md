@@ -52,18 +52,21 @@
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Liyanage&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
-</p>
-
 
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" height="175" alt="Akila's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" height="185" alt="Akila's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="185" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Liyanage&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akila-Liyanage&theme=radical&utcOffset=5.5" width="100%" alt="Productive Time" />
 </p>
 
 
