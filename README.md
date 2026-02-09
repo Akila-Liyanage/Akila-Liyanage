@@ -1,16 +1,10 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<div align="center">
-  <a href="https://github.com/Akila-Liyanage">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical" height="180" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akila-Liyanage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akila-Liyanage&theme=tokyonight" alt="Profile Summary"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Liyanage&theme=radical" alt="GitHub Streak" />
+</p>
