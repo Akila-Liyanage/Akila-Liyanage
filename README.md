@@ -1,11 +1,13 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical" height="180" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Akila-Liyanage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akila-Liyanage&theme=radical" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akila-Liyanage&theme=radical" width="400" />
-</p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Akila-Liyanage&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Liyanage&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
