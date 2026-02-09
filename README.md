@@ -1,15 +1,15 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical" height="180" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Akila-Liyanage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Akila-Liyanage?base=header,repositories,metadata&config_timezone=Asia/Colombo" alt="Main Metrics" />
-</p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Akila-Liyanage&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
-<h3 align="center">🐍 Contribution Activity</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akila-Liyanage/Akila-Liyanage/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Liyanage&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
