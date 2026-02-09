@@ -58,11 +58,6 @@
   <img src="https://streak-stats.demolab.com/?user=Akila-Liyanage&theme=dark&hide_border=true&background=0D1117&ring=4F42B5&fire=4F42B5&currStreakLabel=4F42B5" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Liyanage&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-
 
 ---
 
