@@ -52,23 +52,20 @@
 
 ---
 
-
-
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" height="185" alt="Akila's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="185" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Liyanage&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Liyanage&theme=tokyonight" alt="Akila-Liyanage" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akila-Liyanage&theme=radical&utcOffset=5.5" width="100%" alt="Productive Time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akila-Liyanage&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
 
 ---
 
