@@ -20,6 +20,7 @@
   <tr>
     <td width="50%" align="left">
       <br>
+      🌐 Visit my Portfolio: **[akilaliyanage.vercel.app](https://akilaliyanage.vercel.app/)**<br><br>
       🌱 I’m currently learning **MERN**<br><br>
       🧑‍🎓 I’m an Undergraduate at **SLIIT**<br><br>
       💬 Ask me about **Java**<br><br>
@@ -81,8 +82,8 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4F42B5&icon_color=4F42B5" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4F42B5" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4F42B5&icon_color=4F42B5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4F42B5" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
