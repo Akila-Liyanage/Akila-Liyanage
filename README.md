@@ -52,22 +52,6 @@
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Liyanage&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
-</p>
-
-
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Liyanage&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Liyanage&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
-
----
 
 
 <h3 align="center">Support:</h3>
