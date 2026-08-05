@@ -52,6 +52,15 @@
 
 ---
 
+<h3 align="center">🏆 Achievements</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Akila-Liyanage&amp;theme=radical&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10"
+    alt="Akila Liyanage GitHub Trophies"
+  >
+</p>
+
 
 
 <h3 align="center">Support:</h3>
